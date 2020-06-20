@@ -1,0 +1,11 @@
+C:\Users\AcademyPgh\Session10\Csharp\Battleship\Battleship\bin\Debug\netcoreapp3.1\Battleship.exe
+C:\Users\AcademyPgh\Session10\Csharp\Battleship\Battleship\bin\Debug\netcoreapp3.1\Battleship.deps.json
+C:\Users\AcademyPgh\Session10\Csharp\Battleship\Battleship\bin\Debug\netcoreapp3.1\Battleship.runtimeconfig.json
+C:\Users\AcademyPgh\Session10\Csharp\Battleship\Battleship\bin\Debug\netcoreapp3.1\Battleship.runtimeconfig.dev.json
+C:\Users\AcademyPgh\Session10\Csharp\Battleship\Battleship\bin\Debug\netcoreapp3.1\Battleship.dll
+C:\Users\AcademyPgh\Session10\Csharp\Battleship\Battleship\bin\Debug\netcoreapp3.1\Battleship.pdb
+C:\Users\AcademyPgh\Session10\Csharp\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.csprojAssemblyReference.cache
+C:\Users\AcademyPgh\Session10\Csharp\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.AssemblyInfoInputs.cache
+C:\Users\AcademyPgh\Session10\Csharp\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.AssemblyInfo.cs
+C:\Users\AcademyPgh\Session10\Csharp\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.dll
+C:\Users\AcademyPgh\Session10\Csharp\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.pdb
